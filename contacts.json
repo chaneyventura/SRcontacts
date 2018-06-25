@@ -1,0 +1,26 @@
+{ "contactList":[
+  {
+    "firstName": "Master",
+    "lastName": "Shifu",
+    "contactNumber": "661-210-9815",
+    "contactEmail": "chaneyventura@gmail.com"
+  },
+  {
+    "firstName": "Chaney",
+    "lastName": "Ventura",
+    "contactNumber": "661-210-9815",
+    "contactEmail": "chaneyventura@gmail.com"
+  },
+  {
+    "firstName": "Morgan",
+    "lastName": "Ventura",
+    "contactNumber": "385-225-7211",
+    "contactEmail": "ventura.morgan52@gmail.com"
+  },
+  {
+    "firstName": "Rachelle",
+    "lastName": "Quintanilla",
+    "contactNumber": "240-707-9506",
+    "contactEmail": "shellyrjb@gmail.com"
+  }
+] }
